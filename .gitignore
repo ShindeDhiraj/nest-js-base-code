@@ -2,9 +2,11 @@
 /dist
 /node_modules
 /build
+/Dockerfile
 
 # Logs
 logs
+var
 *.log
 npm-debug.log*
 pnpm-debug.log*
